@@ -1,0 +1,27 @@
+body{
+    margin : 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Avatar{
+    width: 150px;
+}
+
+.card{
+    display: flex;
+    width: 400px;
+    margin: 0 auto;
+    justify-content: space-around;
+    padding: 20px;
+    text-align: center;
+    background: #003049;
+    color: white;
+    border-bottom: 8px solid #c1121f;
+    border-radius: 8px;
+    text-shadow: 2px 2px 3px #c1121f;
+}
+
+a:hover {
+  background-color: #c1121f;
+  font-size: 18px;
+}
